@@ -7,7 +7,7 @@ uis.InputBegan:Connect(function(input, x)
    if input.KeyCode == Enum.KeyCode.One then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/KrakenScripting.Teleport-Ember-Village/main/Ember%20Arena%20Teleport",true))();
 end
-end)                --Arena Teleport
+end)                                                 --Arena Teleport
    
 
 
@@ -118,9 +118,9 @@ if game.PlaceId == 4601350656 then
 uis.InputBegan:Connect(function(input, x)
    if x then return end
    if input.KeyCode == Enum.KeyCode.One then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Log-Farm/main/Teleport",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/LogFarm/main/Nimbus%20Village",true))();  
 end
-end)  --Log Farm Teleport Nimbus Village
+end)                                                    --Log Farm Teleport Nimbus Village
 
 
 local uis = game:GetService("UserInputService")
