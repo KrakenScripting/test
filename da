@@ -1,0 +1,240 @@
+if game.PlaceId ==  4601350214 then
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.One then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/KrakenScripting.Teleport-Ember-Village/main/Ember%20Arena%20Teleport",true))();
+end
+end)                --Arena Teleport
+   
+
+
+   local uis = game:GetService("UserInputService")              --replace "One" from Enum.KeyCode." with yout keybind if you want to change it
+    uis.InputBegan:Connect(function(input, x)
+       if x then return end
+       if input.KeyCode == Enum.KeyCode.Two then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/BigWaterPVP/main/KrakenGuy",true))();
+   end
+   end)                                        --BigWaterPVP Teleport
+                     
+
+
+   local uis = game:GetService("UserInputService")
+    uis.InputBegan:Connect(function(input, x)
+       if x then return end
+       if input.KeyCode == Enum.KeyCode.Three then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/BankaiAkuma/main/KrakenGuy",true))();
+   end
+   end)                                                   --BankaiAkuma Boss Drop Teleport
+  
+   
+
+   local uis = game:GetService("UserInputService")
+   uis.InputBegan:Connect(function(input, x)
+      if x then return end
+      if input.KeyCode == Enum.KeyCode.Four then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/RaionAkuma/main/BossDrop%20Teleport",true))();
+  end
+  end)                                                --RaionAkuma Boss Drop Teleport         
+ 
+
+
+  local uis = game:GetService("UserInputService")
+   uis.InputBegan:Connect(function(input, x)
+      if x then return end
+      if input.KeyCode == Enum.KeyCode.Five then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/PTS-Raion/main/Boss%20Drop%20Teleport",true))();
+  end
+  end)                                                --PTS Raion Boss Drop Teleport
+                                                         
+
+                                                                                        --replace "Six" from Enum.KeyCode." with yout keybind if you want to change it
+  local uis = game:GetService("UserInputService")
+  uis.InputBegan:Connect(function(input, x)
+     if x then return end
+     if input.KeyCode == Enum.KeyCode.Six then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Dio-Senko/main/Boss%20Drop%20Teleport",true))();
+ end
+ end)                                                  --Dio Senko Boss Drop Teleport
+
+
+
+ local uis = game:GetService("UserInputService")
+ uis.InputBegan:Connect(function(input, x)
+    if x then return end
+    if input.KeyCode == Enum.KeyCode.Seven then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/ForgedAkuma/main/Boss%20Drop%20Teleport",true))();
+end
+end)                                                 --Forged Akuma Boss Drop
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Eight then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Sarachia-Akuma/main/Boss%20Drop%20Teleport",true))();
+end
+end)                                                --Sarachia Akuma Boss Drop
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Nine then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Satori-Akuma/main/Boss%20Drop%20Teleport",true))();
+end
+end)                                                       --Satori Akuma Boss Drop
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Zero then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/KageMansion/main/Teleport",true))();
+end
+end)                                                   --Interior of Kage Mansion (where you do rankup)
+
+                                                                                                  --replace "KeypadOne" from Enum.KeyCode." with yout keybind if you want to change it
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Log-Farm/main/Teleport",true))();
+end
+end)--Log Farm Teleport
+
+end
+
+
+ --======================================================================================================================================================================================
+
+
+if game.PlaceId == 4601350656 then
+    
+    
+ local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.One then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Log-Farm/main/Teleport",true))();
+end
+end)  --Log Farm Teleport Nimbus Village
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Two then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Nimbus-Village/main/Arena%20Teleport",true))();
+end
+end)                                                   --Arena Teleport Nimbus Village
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Three then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/NimbusVillage/main/Ashen%20Storm%20BOSS",true))();
+end
+end)                                          --Ashen Storm BOSS Teleport Nimbus Village
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Nimbus-Village2/main/Xeno%20Dokei",true))();
+end
+end)                                                --Xeno Dokei BOSS Teleport Nimbus Village   
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Nimbus-Village3/main/Odin%20Saberu%20Boss",true))();
+end
+end)                                                --Odin Saberu BOSS Teleport Nimbus Village    
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Nimbus-Village-4/main/Giovanni%20Shizen",true))();
+end
+end)                                                  --Giovanni Shizen BOSS Teleport Nimbus Village     
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Nimbus-Village-5/main/GingerBread%20Chad",true))();
+end
+end)                                                     --GingerBread Chad BOSS Teleport Nimbus Village
+
+end
+
+
+ --======================================================================================================================================================================================
+
+
+if game.PlaceId == 4601350809 then
+
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Jiso-Seishin/main/Obelisk%20Village",true))();
+end
+end)                                                        --Jiso Seishin BOSS Teleport Obelisk Village  
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Satoru-Okami/main/Obelisk%20Village",true))();
+end
+end)                                                          --Satoru Okami BOSS Teleport Obelisk Village  
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Light-Jokei/main/Obelisk%20Village",true))();
+end
+end)                                                            --Light Jokei BOSS Teleport Obelisk Village
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Kabu-Cobra/main/Obelisk%20Village",true))();
+end
+end)                                                       --Kabu Cobra BOSS Teleport Obelisk Village 
+
+
+local uis = game:GetService("UserInputService")
+uis.InputBegan:Connect(function(input, x)
+   if x then return end
+   if input.KeyCode == Enum.KeyCode.Minus then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Arahaki-Jokei/main/Obelisk%20Village",true))();
+end
+end)                                                      --Arahaki Jokei BOSS Teleport Obelisk Village  
+
+end
+
+
+ --======================================================================================================================================================================================
+ 
+ 
+ 
+ 
