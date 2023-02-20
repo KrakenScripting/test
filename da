@@ -144,7 +144,7 @@ end)                                          --Ashen Storm BOSS Teleport Nimbus
 local uis = game:GetService("UserInputService")
 uis.InputBegan:Connect(function(input, x)
    if x then return end
-   if input.KeyCode == Enum.KeyCode.Minus then
+   if input.KeyCode == Enum.KeyCode.Four then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Nimbus-Village2/main/Xeno%20Dokei",true))();
 end
 end)                                                --Xeno Dokei BOSS Teleport Nimbus Village   
@@ -153,7 +153,7 @@ end)                                                --Xeno Dokei BOSS Teleport N
 local uis = game:GetService("UserInputService")
 uis.InputBegan:Connect(function(input, x)
    if x then return end
-   if input.KeyCode == Enum.KeyCode.Minus then
+   if input.KeyCode == Enum.KeyCode.Five then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Nimbus-Village3/main/Odin%20Saberu%20Boss",true))();
 end
 end)                                                --Odin Saberu BOSS Teleport Nimbus Village    
@@ -162,7 +162,7 @@ end)                                                --Odin Saberu BOSS Teleport 
 local uis = game:GetService("UserInputService")
 uis.InputBegan:Connect(function(input, x)
    if x then return end
-   if input.KeyCode == Enum.KeyCode.Minus then
+   if input.KeyCode == Enum.KeyCode.Six then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Nimbus-Village-4/main/Giovanni%20Shizen",true))();
 end
 end)                                                  --Giovanni Shizen BOSS Teleport Nimbus Village     
@@ -171,7 +171,7 @@ end)                                                  --Giovanni Shizen BOSS Tel
 local uis = game:GetService("UserInputService")
 uis.InputBegan:Connect(function(input, x)
    if x then return end
-   if input.KeyCode == Enum.KeyCode.Minus then
+   if input.KeyCode == Enum.KeyCode.Seven then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Nimbus-Village-5/main/GingerBread%20Chad",true))();
 end
 end)                                                     --GingerBread Chad BOSS Teleport Nimbus Village
@@ -189,7 +189,7 @@ if game.PlaceId == 4601350809 then
 local uis = game:GetService("UserInputService")
 uis.InputBegan:Connect(function(input, x)
    if x then return end
-   if input.KeyCode == Enum.KeyCode.Minus then
+   if input.KeyCode == Enum.KeyCode.One then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Jiso-Seishin/main/Obelisk%20Village",true))();
 end
 end)                                                        --Jiso Seishin BOSS Teleport Obelisk Village  
@@ -198,7 +198,7 @@ end)                                                        --Jiso Seishin BOSS 
 local uis = game:GetService("UserInputService")
 uis.InputBegan:Connect(function(input, x)
    if x then return end
-   if input.KeyCode == Enum.KeyCode.Minus then
+   if input.KeyCode == Enum.KeyCode.Two then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Satoru-Okami/main/Obelisk%20Village",true))();
 end
 end)                                                          --Satoru Okami BOSS Teleport Obelisk Village  
@@ -207,7 +207,7 @@ end)                                                          --Satoru Okami BOS
 local uis = game:GetService("UserInputService")
 uis.InputBegan:Connect(function(input, x)
    if x then return end
-   if input.KeyCode == Enum.KeyCode.Minus then
+   if input.KeyCode == Enum.KeyCode.Three then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Light-Jokei/main/Obelisk%20Village",true))();
 end
 end)                                                            --Light Jokei BOSS Teleport Obelisk Village
@@ -216,7 +216,7 @@ end)                                                            --Light Jokei BO
 local uis = game:GetService("UserInputService")
 uis.InputBegan:Connect(function(input, x)
    if x then return end
-   if input.KeyCode == Enum.KeyCode.Minus then
+   if input.KeyCode == Enum.KeyCode.Four then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Kabu-Cobra/main/Obelisk%20Village",true))();
 end
 end)                                                       --Kabu Cobra BOSS Teleport Obelisk Village 
@@ -225,7 +225,7 @@ end)                                                       --Kabu Cobra BOSS Tel
 local uis = game:GetService("UserInputService")
 uis.InputBegan:Connect(function(input, x)
    if x then return end
-   if input.KeyCode == Enum.KeyCode.Minus then
+   if input.KeyCode == Enum.KeyCode.Five then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KrakenScripting/Arahaki-Jokei/main/Obelisk%20Village",true))();
 end
 end)                                                      --Arahaki Jokei BOSS Teleport Obelisk Village  
